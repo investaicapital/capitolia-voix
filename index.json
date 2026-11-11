@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "langues": {
+    "fr": {
+      "tag": "voix-fr-1",
+      "cache": "v4"
+    },
+    "en": {
+      "tag": "voix-en-1",
+      "cache": "v4"
+    },
+    "es": {
+      "tag": "voix-es-1",
+      "cache": "v4"
+    }
+  }
+}
