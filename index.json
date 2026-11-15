@@ -1,9 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "langues": {
     "fr": {
-      "tag": "voix-fr-1",
-      "cache": "v4"
+      "tag": "voix-fr-k1",
+      "cache": "k1"
     },
     "en": {
       "tag": "voix-en-1",
