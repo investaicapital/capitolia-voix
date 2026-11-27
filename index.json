@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "langues": {
     "fr": {
       "tag": "voix-fr-k1",
@@ -35,6 +35,10 @@
     },
     "bn": {
       "tag": "voix-bn-e1",
+      "cache": "e1"
+    },
+    "de": {
+      "tag": "voix-de-e1",
       "cache": "e1"
     }
   }
