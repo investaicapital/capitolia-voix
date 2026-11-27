@@ -1,13 +1,13 @@
 {
-  "version": 12,
+  "version": 13,
   "langues": {
     "fr": {
       "tag": "voix-fr-k1",
       "cache": "k1"
     },
     "en": {
-      "tag": "voix-en-k1",
-      "cache": "k1"
+      "tag": "voix-en-e1",
+      "cache": "e1"
     },
     "es": {
       "tag": "voix-es-k1",
