@@ -1,9 +1,9 @@
 {
-  "version": 14,
+  "version": 15,
   "langues": {
     "fr": {
-      "tag": "voix-fr-k1",
-      "cache": "k1"
+      "tag": "voix-fr-e1",
+      "cache": "e1"
     },
     "en": {
       "tag": "voix-en-e1",
